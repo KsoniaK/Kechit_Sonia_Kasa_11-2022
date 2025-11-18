@@ -28,4 +28,4 @@ Ce projet a été réalisé sous la licence Kasa.
 
 ## GitHub
 
-https://ksoniak.github.io/KECHIT_Sonia_Kasa_11-2022/
+https://ksoniak.github.io/Kechit_Sonia_Kasa_11-2022/
